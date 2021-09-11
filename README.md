@@ -1,10 +1,10 @@
 ## Halo semua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Perkenalkan nama saya **Rahmat Syarif Azhari**.
+Introducing my name **Rahmat Syarif Azhari**.
 
-Saya mengikuti program **Studi Independen Machine Learning dan Front End** di [Dicoding](https://www.dicoding.com/).
+I took the **Independent Study of Machine Learning and Front-End Web** program at [Dicoding](https://www.dicoding.com/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https://www.github.com/in/zack-rahmat/) ku ya.
+If you are interested in getting to know me, please follow my [Github](https://www.github.com/in/zack-rahmat/) account.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -26,10 +26,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https:
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          13 hrs 40 mins  ███████████████████▒░░░░░   77.76 % 
-JavaScript   3 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.42 % 
+C            13 hrs 40 mins  ███████████████████▒░░░░░   77.76 % 
+PYTHON       3 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.42 % 
 HTML         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 
