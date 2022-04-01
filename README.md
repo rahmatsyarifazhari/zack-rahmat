@@ -1,4 +1,4 @@
-## Halo semua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Introducing my name **Rahmat Syarif Azhari**.
 
@@ -23,7 +23,7 @@ If you are interested in getting to know me, please follow my [Github](https://w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+<!-- 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 C            13 hrs 40 mins  ███████████████████▒░░░░░   77.76 % 
@@ -36,11 +36,12 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 if you like what i do, maybe consider buying me a coffee 🥺
 
 <br>
-
-### Github Statistic
+ -->
+<!-- ### Github Statistic
 <p align="left">
 <a href="https://github.com/dimasmds">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+ -->
